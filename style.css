@@ -1,0 +1,10 @@
+body{
+    display: flex;  
+}
+#main-canvas{
+    border: green 20px solid;
+}
+#main-controller{
+    margin-left: 10px;
+}
+
